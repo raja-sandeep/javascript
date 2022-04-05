@@ -4,5 +4,7 @@ console.log(x.charCodeAt());
 let y =" suman"
 var z ="satish"
 console.log(x.concat(y));
-console.log(x.indexOf("p"));
+
+
+console.log(y.length);
 console.log(x.search)
